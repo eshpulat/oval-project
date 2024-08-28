@@ -1,0 +1,17 @@
+/*\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*/
+/***** REUSABLE STYLE ********/
+/*\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Aileron", sans-serif;
+}
+
+html {
+    font-size: 62.5%;
+}
