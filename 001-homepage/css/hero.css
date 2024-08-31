@@ -1,0 +1,79 @@
+/*\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*/
+/***** HEADER NAVIGATION ********/
+/*\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*/
+
+.hero-section {
+    background-color: #d1e8ff;
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+.main-hero {
+    max-width: 80rem;
+    margin: 0 auto;
+}
+
+.hero-text {
+    text-align: center;
+    font-weight: 800;
+    font-size: 6rem;
+    line-height: 7.2rem;
+    letter-spacing: 0.2rem;
+    color: #232e69;
+
+    padding-top: 10rem;
+}
+
+.hero-description {
+    font-weight: 400;
+    font-size: 1.8rem;
+    line-height: 2.8rem;
+    letter-spacing: 0.18px;
+    padding-top: 2.4rem;
+    color: #232e69;
+
+    text-align: center;
+}
+.hero-link-box {
+    text-align: center;
+    padding-top: 8.4rem;
+    padding-bottom: 30.1rem;
+}
+
+.hero-link--1 {
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 1.6rem;
+    line-height: 1.92rem;
+    background-color: #5b45e0;
+    padding: 1.2rem 2rem;
+    margin-right: 1.2rem;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+.hero-link--1:hover {
+    background-color: #6b58e3;
+}
+
+.hero-link--2 {
+    color: #5b45e0;
+    font-weight: 700;
+    font-size: 1.6rem;
+    line-height: 1.92rem;
+    background-color: #ffffff;
+    padding: 1.2rem 2rem;
+    margin-left: 1.2rem;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+.hero-link--2:hover {
+    background-color: #f1f3f5;
+}
+.hero-img {
+    margin-left: 35rem;
+    border-radius: 2rem;
+    margin-bottom: 5.9rem;
+}
