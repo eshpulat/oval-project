@@ -96,3 +96,10 @@
     margin-top: 1.6rem;
     text-decoration: none;
 }
+
+.custom-line {
+    border: none;
+    height: 2px;
+    background-color: #e8e7e8;
+    margin: 20px 0;
+}
