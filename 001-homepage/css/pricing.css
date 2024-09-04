@@ -169,3 +169,10 @@
     margin-top: 9.5rem;
     margin-bottom: 3.9rem;
 }
+
+.custom-line {
+    border: none;
+    height: 2px;
+    background-color: #e8e7e8;
+    margin: 20px 0;
+}

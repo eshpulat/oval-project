@@ -2,13 +2,6 @@
 /***** FOOTER SECTION ********/
 /*\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*/
 
-.custom-line {
-    border: none;
-    height: 2px;
-    background-color: #e8e7e8;
-    margin: 20px 0;
-}
-
 .footer-section {
     background-color: #ffffff;
     padding-left: 4rem;
@@ -38,9 +31,6 @@
     font-size: 1.2rem;
     color: #64626a;
     margin-top: 10rem;
-}
-
-.footer-nav {
 }
 
 .footer-heading {
