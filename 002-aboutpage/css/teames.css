@@ -1,0 +1,78 @@
+/*\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*/
+/***** TEAMS SECTION ********/
+/*\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*/
+
+.teams-section {
+    background-color: #ffffff;
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+
+.main-teams {
+    max-width: 124rem;
+    margin: 0 auto;
+
+    padding-top: 12rem;
+    padding-bottom: 10rem;
+}
+
+.teames-heading {
+    text-align: center;
+    font-weight: 700;
+    font-size: 4.8rem;
+    line-height: 5.76rem;
+
+    color: #000000;
+}
+
+.teames-description {
+    text-align: center;
+    font-weight: 400;
+    font-size: 2rem;
+    line-height: 3rem;
+    color: #64626a;
+
+    margin-top: 1.6rem;
+}
+
+.teames-box {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 3rem;
+    row-gap: 3.2rem;
+
+    margin-top: 6.4rem;
+}
+
+.teames-member-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    border: 1px solid #d1d0d6;
+    border-radius: 1.2rem;
+}
+
+.member-img {
+    margin-top: 4.8rem;
+}
+
+.member-name {
+    font-weight: 700;
+    font-size: 2rem;
+    line-height: 2.4rem;
+    color: #3b3a40;
+
+    margin-top: 2.4rem;
+}
+
+.member-positsion {
+    font-weight: 600;
+    font-style: italic;
+    font-size: 1.8rem;
+    line-height: 2.16rem;
+
+    color: #8e8c95;
+    margin-top: 1.3rem;
+    margin-bottom: 4.7rem;
+}
