@@ -1,0 +1,47 @@
+/*\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*/
+/***** TESTIMONIAL SECTION ********/
+/*\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*/
+
+.testimonial-section {
+    background-color: #ffffff;
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+
+.main-testimonial {
+    max-width: 124rem;
+    margin: 0 auto;
+
+    padding-top: 11.7rem;
+    padding-bottom: 12rem;
+}
+
+.testimonial-heading {
+    text-align: center;
+    font-weight: 400;
+    font-size: 2rem;
+    line-height: 3rem;
+    color: #64626a;
+
+    margin-bottom: 5.2rem;
+}
+
+.testimonial-logo-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 100rem;
+    margin: 0 auto;
+}
+
+.logo--box--2 {
+    padding-top: 6rem;
+    padding-right: 4rem;
+}
+
+.about-testiomonial-box {
+    display: flex;
+    width: max-content;
+    margin-right: auto;
+    margin-left: auto;
+}
